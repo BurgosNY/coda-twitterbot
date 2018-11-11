@@ -1,0 +1,5 @@
+django-environ
+tweepy
+requests
+pandas
+beautifulsoup4

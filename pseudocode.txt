@@ -1,0 +1,32 @@
+@fatimabot
+
+Versão simples:
+busque por fake news no twitter
+se achar alguém compartilhando, tuíte um reply 
+
+Problema 1: O que é "fake news"?
+Criar um banco de dados de notícias falsas
+Buscar por essas fake news especificamente
+se achar alguém compartilhando, tuíte um reply 
+
+(exemplo: trigger é  "Se você perdeu a melhor palestra do CODA, acesse o código aqui:")
+
+Problema 2: É preciso priorizar
+Criar um banco de dados de notícias falsas
+Buscar por essas fake news especificamente
+se achar alguém compartilhando, avalie se é a pessoa certa (algoritmo decisão)
+tuíte um reply 
+
+Problema 3: É preciso otimizar
+Criar um banco de dados de notícias falsas
+Buscar por essas fake news especificamente
+Armazenar todos esses tuítes
+se achar alguém compartilhando, avalie se é a pessoa certa (algoritmo decisão)
+tuíte um reply 
+
+Problema 4: Automatizar
+Criar um banco de dados de notícias falsas
+Buscar por essas fake news especificamente
+Armazenar todos esses tuítes
+se achar alguém compartilhando, avalie se é a pessoa certa (algoritmo decisão)
+tuíte um reply 
