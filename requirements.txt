@@ -3,3 +3,4 @@ tweepy
 requests
 pandas
 beautifulsoup4
+jupyter
